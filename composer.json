@@ -1,3 +1,8 @@
 {
-	"name": "guilhermeblanco/ZendFramework1-Doctrine2"
+	"name": "guilhermeblanco/ZendFramework1-Doctrine2",
+	"autoload": {
+		"psr-0": {
+			"Bisna": { "library/" }
+		}
+	}
 }
